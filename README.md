@@ -1,6 +1,6 @@
 # Simple image test server
 
-This repo is a simple test image server for development. It's built on flask. It's quick and dirty, not meant for production.
+This repo is a simple image test server for development. It's built on flask. It's quick and dirty, not meant for production.
 
 Although it is built for images, you can modify the code to use it for other type of data.
 
